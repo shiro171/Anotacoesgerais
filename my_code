@@ -30,7 +30,7 @@ public class Main {
 		
 		
 		
-		Scanner sc= new Scanner(System.in);
+/*		Scanner sc= new Scanner(System.in);
 		
 		double raio = 0;
 		double area = 0;
@@ -41,6 +41,7 @@ public class Main {
 		area = pi * Math.pow(raio, 2);
 		System.out.println(area);
 		sc.close();
+*/
 		
 		
 				

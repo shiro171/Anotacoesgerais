@@ -1,0 +1,54 @@
+import java.util.Scanner;
+import math;
+public class Main {
+	public static void main(String[] args){
+		
+		/*Scanner sc = new Scanner(System.in);
+		double x;
+		double y;
+		double z;
+		double soma;
+		x = sc.nextDouble();
+		y = sc.nextDouble();
+		z = sc.nextDouble();
+		
+		System.out.println("a potencia é de: " + Math.pow(x, y));
+				
+		
+		
+		/*String s1, s2, s3;
+		
+		s1 = sc.nextLine();
+		s2 = sc.nextLine();
+		s3 = sc.nextLine();
+		
+		System.out.println("DADOS DIGITADOS: ");
+		System.out.println(s1);
+		System.out.println(s2);
+		System.out.println(s1);
+*/
+		
+		
+		
+		Scanner sc= new Scanner(System.in);
+		
+		double raio = 0;
+		double area = 0;
+		double pi = 3.14159;
+		System.out.print("digite o raio do circulo: ");
+		raio = sc.nextDouble();
+		
+		area = pi * Math.pow(raio, 2);
+		System.out.println(area);
+		sc.close();
+		
+		
+				
+		
+	    
+		
+		
+		
+		
+	}
+}

@@ -1,4 +1,4 @@
-/*////////////////////////////////////////////////////////////
+/*//////////////////EXERCICIO 2//////////////////////////////////////////
 import java.util.Locale;
 	import java.util.Scanner;
 
@@ -15,7 +15,7 @@ import java.util.Locale;
 
 		    A = pi * R * R;
 
-		    System.out.printf("A=%.4f%n", A);
+		    System.out.printf("A=%.4f%n", A); /*o format arredondou 12.56636 para 12,5664*/ achei paia
 
 			sc.close();
 		}
